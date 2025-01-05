@@ -7600,6 +7600,7 @@
       "packagesPath": "/Users/arazabedi/.nuget/packages/",
       "outputPath": "/Users/arazabedi/csharp/CognizantDataverse/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/arazabedi/.nuget/NuGet/NuGet.Config"
       ],
@@ -7624,8 +7625,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net9.0": {
