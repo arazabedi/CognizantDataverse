@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0d5a529f_002D9cf4_002D4c91_002D87fc_002Db90ced6d1a1c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HandleCreateAccount_Success #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::CognizantDataverse.Tests.AccountControllerTests.HandleCreateAccount_Success&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=55a2ac35_002Dee93_002D4179_002Dbdb5_002D3148642e669e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HandleCreateAccount_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::CognizantDataverse.Tests.AccountControllerTests.HandleCreateAccount_Success&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=729ae9c3_002D68b6_002D4d86_002D97b9_002D53a51366954c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HandleCreateAccount_Success #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::CognizantDataverse.Tests.AccountControllerTests.HandleCreateAccount_Success&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d134daf_002D433a_002D441e_002D9e29_002D601552383d2f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HandleCreateAccount_Success #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::CognizantDataverse.Tests.AccountControllerTests.HandleCreateAccount_Success&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9996ffa5_002De3a2_002D414c_002Db3c7_002Db616d0cbbcd8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AccountControllerTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::CognizantDataverse.Tests.AccountControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1e9d8ef_002Dac0f_002D4c2b_002D8bf1_002De47fc6230067/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AccountControllerTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::AccountControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0007ca7_002D1c59_002D4f61_002Dac13_002D289858c17e10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AccountControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E062E573-F9A5-4DCA-A6E4-61473712468E::net9.0::CognizantDataverse.Tests.AccountControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
