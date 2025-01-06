@@ -1,6 +1,6 @@
 # Cognizant Dataverse CRUD Demo
 
-This project demonstrates **CRUD (Create, Read, Update, Delete)** functionality using **Microsoft Dataverse API**. It provides a console-based interface for managing **Accounts**, **Contacts**, and **Incidents** in a Dataverse environment. The application is built using **C#** and leverages the **Microsoft.PowerPlatform.Dataverse.Client** library for interacting with Dataverse.
+This project demonstrates **CRUD (Create, Read, Update, Delete)** functionality using **Microsoft Dataverse API**. It provides a console interface for managing **Accounts**, **Contacts**, and **Incidents** in a Dataverse environment. The application is built using **C#** and leverages the **Microsoft.PowerPlatform.Dataverse.Client** library for interacting with Dataverse.
 
 ---
 
@@ -211,18 +211,8 @@ Unit tests are provided for the `AccountController`, `ContactController`, and `I
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
+## Libraries Used
 
 - **Microsoft Dataverse API**: For providing the backend functionality.
 - **Moq**: For enabling mocking in unit tests.
 - **xUnit**: For providing a robust testing framework.
-
----
-
-Enjoy using the Cognizant Dataverse CRUD Demo! For any issues or feature requests, please open an issue on GitHub.
